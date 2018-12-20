@@ -1,0 +1,10 @@
+"innerDiameter" = 27.9mm 
+"chordThickness" = 9.5mm 
+"chordLength" = 55mm 
+"ArmLength" = 424mm 
+"shockMountSpacing" = 30mm 
+"shockMountHeight" = 55mm 
+"ShockMountlength" = 35mm 
+"shockMountAngle" = 40deg 
+"BoltNominalDiameter" = 10mm 
+"BushingInnerDiameter" = 10.1mm 

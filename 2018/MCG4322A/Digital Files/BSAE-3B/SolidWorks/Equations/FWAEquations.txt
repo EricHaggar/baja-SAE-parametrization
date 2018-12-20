@@ -1,0 +1,16 @@
+"FWKnuckle_CaliperMountThickness"=7mm
+"FWSpindle_Diameter3"=25mm
+"FWSpindle_Diameter2"=30mm
+"FWSpindle_Diameter1"=36.5mm
+"FWOutboardBearing_OuterDiameter"=62mm
+"FWOutboardBearing_Width"=17mm
+"FWOutboardBearing_Radius"=1.02mm
+"FWOutboardBearing_ShaftStep"=33mm
+"FWOutboardBearing_HubStep"=54.9mm
+"FWInboardBearing_OuterDiameter"=62mm
+"FWInboardBearing_Width"=16mm
+"FWInboardBearing_Radius"=1.02mm
+"FWInboardBearing_HubStep"=55.4mm
+"FWInboardSeal_OuterDiameter"=64mm
+"FWCaliperBolt_RootDiameter"=6.47mm
+"WheelStud_Diameter"=9.85mm

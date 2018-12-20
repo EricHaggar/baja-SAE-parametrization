@@ -1,0 +1,43 @@
+"column angle" = 45deg 
+"short_bearing_outer_width" = 10mm 
+"wheel base" = 1561mm 
+"track" = 1354mm 
+"turning radius" = 2000mm 
+"turn to lock" = 0.75mm 
+"steering arm length" = 100mm 
+
+"primary shaft small diameter" = 16mm 
+"primary shaft large diameter" = 24mm 
+"secondary shaft small diameter" = 16mm 
+"secondary shaft large diameter" = 25mm 
+"steering column length" = 555mm 
+"keyway_height" = 1.39mm 
+"keyway_width" = 2.78mm 
+"keyway_length" = 30mm 
+
+"steering wheel bolt width" = 6mm 
+"steering wheel bolt length" = 40mm 
+"bushing length" = 40mm 
+"bushing thickness" = 3mm 
+
+"u_joint clearance" = 30mm 
+"u_joint thickness" = 7.5mm 
+
+"horizontal shaft length" = 90mm 
+"column bushing diameter" = "primary shaft small diameter" + 4 
+"column bushing distance" = "steering column length"/4 
+"pinion width" = 26.5mm 
+"pin hole diameter" = 10mm 
+"rack hole to hole" = 500mm 
+"rack length" = "rack hole to hole" + "pin hole diameter"*2 
+
+"max turning angle" = atn("wheel base" / ("turning radius" - 0.5 * "track")) 
+"max travel" = 2 * "steering arm length" * sin(0.5 * "max turning angle") 
+"pitch diameter" = "max travel"/(pi * "turn to lock") 
+"number of teeth" = 18mm 
+"pressure angle" = 20deg 
+"module" = "pitch diameter" / "number of teeth" 
+
+"tie rod length" = 305mm 
+"tie rod inner diameter" = 6.6mm 
+"tie rod outer diameter" = 8.1mm 

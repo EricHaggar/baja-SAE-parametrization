@@ -1,0 +1,4 @@
+"Temp Height" = 879.2mm 
+"PrimaryTubeThickness" = 2.4mm 
+"SecondaryTubeThickness" = 2.4mm 
+"OuterDIA" = 31.75mm 

@@ -1,0 +1,7 @@
+"Spring_inner_dia" =80mm
+"Spring_wire_dia" =8mm
+"Lower_Mount_piston_rod_radius"	=4.1364mm
+"Lower_Mount_piston_rod_length" =149mm
+"Upper_mount_wall_thickness" =6mm
+"Upper_Mount_largest_radius" =24.6mm
+"Piston_orifice_dia"=1.3396mm

@@ -1,0 +1,3 @@
+"Inner diameter tube" = 25.3mm 
+"BoltNominalDiameter" = 10mm 
+"BushingInnerDiameter" = 10.1mm 
