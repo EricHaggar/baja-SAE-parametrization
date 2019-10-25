@@ -1,4 +1,4 @@
-# BajaSAEParametrization
+# Baja SAE Parametrization
 
 BajaSAEParametrization is a mechanical engineering capstone project completed at the University of Ottawa. The purpose of this project was to design and analyze a fully parametrizable BAJA SAE off-road vehicle. I created a user-friendly MATLAB GUI to automate the parametrization process.
 
